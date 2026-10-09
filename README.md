@@ -1,9 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>Audio Player</title>
+<html>
   </head>
   <body>
     <audio controls>
